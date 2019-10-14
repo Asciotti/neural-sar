@@ -2,28 +2,6 @@
 
 This is a collection of implementations of various neural network architectures to cleanup/improve Synthetic Aperature Radar (SAR) and images generated from such techniques. These networks focus on supervised learning methods where example and/or truth data is necessary.
 
-## Getting Started
-
-```
-TODO 
-```
-
-### Installing
-
-
-```
-TODO
-```
-## Running the tests
-
-```
-TODO
-```
-
-## Contributing
-
-TODO
-
 
 ## Authors
 
